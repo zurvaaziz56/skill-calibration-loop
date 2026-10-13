@@ -1,0 +1,7 @@
+.DS_Store
+.env
+.env.*
+__pycache__/
+*.log
+# local register / drafts data
+Calibration Loop/
